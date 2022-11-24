@@ -6,5 +6,5 @@ But I do make sure to document them the best I can, so you might find something 
 This is my university account, my main account is [rajayonin](github.com/rajayonin).  
 
 Anyway, here are some stats!  
-![](https://raw.githubusercontent.com/ldcas-uc3m/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ldcas-uc3m/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Account overview](https://raw.githubusercontent.com/ldcas-uc3m/github-stats/master/generated/overview.svg)
+![Languages used](https://raw.githubusercontent.com/ldcas-uc3m/github-stats/master/generated/languages.svg)
